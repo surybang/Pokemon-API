@@ -1,4 +1,6 @@
-# Pokémon API
+# Pokémon API <img src="https://github.com/user-attachments/assets/1bd90fac-23c7-4ed0-ac83-b1529bd4949d" alt="pokeball" width="25" />
+
+
 
 Ce repos présente une première approche avec le package fastAPI.
 À partir d'un fichier json contenant les 150 pokémons de la première génération, nous construisons une API pour les récupérer, les modifiers, les supprimer ou encore en ajouter.
